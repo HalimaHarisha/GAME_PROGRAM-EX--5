@@ -130,8 +130,25 @@ To implement a gameplay feature where the player collects ammo pickups in the ga
 # RESULT :
 • The player starts with a limited number of bullets.
 
+
+
+
 • When the player overlaps with an ammo pickup:
+
+
+
+
  ○ The ammo is collected.
+
+
+
+
+
+ 
  ○ The player's AmmoCount increases.
+
+
+
+ 
 
 • The player can now fire additional bullets based on the updated ammo count.
